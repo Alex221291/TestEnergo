@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+N8wmo6FZVMn+/dxTLUIcmZiN4cNGpZ8nZjc91+I/rm9b0hpqIohHToIq6BTrUOnxBtaTb2KyITnlBo9epJWw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\TestEnergo\\TestEnergo\\TestEnergo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AplusA\\.nuget\\packages\\microsoft.data.sqlite\\7.0.0\\microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\AplusA\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
